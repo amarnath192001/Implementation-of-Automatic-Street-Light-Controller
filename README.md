@@ -64,9 +64,11 @@ delay(5000);
 }
 }
 ## CIRCUIT DIAGRAM:
-"C:\Users\91638\Downloads\WhatsApp Image 2023-06-20 at 10.11.25 AM.jpeg"
+![WhatsApp Image 2023-06-20 at 10 11 25 AM](https://github.com/amarnath192001/Implementation-of-Automatic-Street-Light-Controller/assets/103507677/e37d6e07-df88-405e-818f-c5040e0da6ae)
+
 
 ## OUTPUT:
-"C:\Users\91638\Downloads\WhatsApp Image 2023-06-20 at 10.11.25 AM (1).jpeg"
+![WhatsApp Image 2023-06-20 at 10 11 25 AM (1)](https://github.com/amarnath192001/Implementation-of-Automatic-Street-Light-Controller/assets/103507677/62ba949f-6878-4c65-889d-1886dbc4a1ce)
+
 ## RESULT:
 Thus the Automatic Street Light controller was implemented using Arduino UNO controller.
